@@ -1,3 +1,4 @@
+#
 def detect_arp_spoofing(table: list[str]) -> set[str]:
     ip_mac_dict = {}
     poisoned_ips = set()
