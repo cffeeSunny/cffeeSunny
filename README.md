@@ -2,4 +2,4 @@
 
 This repo is for my own projects / all things I've done. Its goal is to actively showcase how I have improved + new skills I have gained.
 I would love to receive constructive feedback - I am sure there is plenty to be had. 
-PS Week 4 has some trouble uploading (will fix)  & Week 6 was unfortunately done on an old laptop no longer here; shame, it was my favourite so far. 
+Week 6 was unfortunately done on an old laptop no longer here;   shame, it was my favourite so far. 
