@@ -7,7 +7,7 @@ app = Flask(__name__)
 auth = HTTPBasicAuth()
 if not os.path.exists("uploads"):
     os.mkdir("uploads")
-users = {"admin" : "KoiZnaiBe"}
+users = {"admin" : "admin"}
 
 @auth.get_password
 def get_pw(username):
